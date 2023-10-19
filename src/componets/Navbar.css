@@ -1,0 +1,21 @@
+nav{
+    width: 100vw;
+    height: 40px;
+    background-color: rgb(46, 120, 122);
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+nav span{
+    font-weight: bold;
+    font-size: 18px;
+}
+nav a{
+    text-decoration: none;
+    color: inherit; 
+    cursor: pointer;
+}
+nav a:hover{
+    color: rgb(61, 60, 60);
+}

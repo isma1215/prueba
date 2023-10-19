@@ -1,0 +1,23 @@
+.img-user{
+    height: 60px;
+    border-radius: 50%;
+}
+
+.card{
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 15px;
+    border: solid 2px;
+    margin: 10px;
+}
+.card-admin{
+    background-color: rgb(77, 195, 199);
+}
+.data-user{
+    width: 60%;
+}
+.seguir{
+    cursor: pointer;
+}
